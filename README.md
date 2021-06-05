@@ -1,2 +1,2 @@
 # ShapeAI_Python_Machine_Learning
- ML project on Linear Regression Model 
+ ML project using Linear Regression Model 
